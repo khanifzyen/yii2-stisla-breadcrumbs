@@ -5,7 +5,7 @@ namespace khanifzyen\stislabreadcrumbs;
 /**
  * This is just an example.
  */
-class AutoloadExample extends \yii\base\Widget
+class Breadcrumbs extends \yii\bootstrap4\Breadcrumbs
 {
     public function run()
     {
