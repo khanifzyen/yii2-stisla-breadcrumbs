@@ -1,0 +1,21 @@
+{
+    "name": "khanifzyen/yii2-stisla-breadcrumbs",
+    "description": "Stisla is a free bootstrap 4 template with nice ui, but for breadcrumbs it hasn't follow the rule of bootstrap 4 template. So i make this extensions in order to follow stisla css rule for breadcrumbs ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","stisla","breadcrumbs"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Akhmad Khanif Zyen",
+            "email": "khanif.zyen@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "khanifzyen\\stislabreadcrumbs\\": ""
+        }
+    }
+}
