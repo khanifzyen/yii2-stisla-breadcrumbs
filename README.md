@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \khanifzyen\stislabreadcrumbs\AutoloadExample::widget(); ?>```
+<?= \khanifzyen\stislabreadcrumbs\Breadcrumbs::widget(); ?>```
